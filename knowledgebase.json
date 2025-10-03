@@ -1,0 +1,602 @@
+[
+  {
+    "id": "1",
+    "title": "Spaghetti Bolognese",
+    "ingredients": "spaghetti, ground beef, tomato sauce, onion, garlic, olive oil, basil",
+    "instructions": "Cook spaghetti. Fry onion and garlic, add beef, tomato sauce, simmer, mix with pasta."
+  },
+  {
+    "id": "2",
+    "title": "Chicken Salad",
+    "ingredients": "chicken breast, lettuce, cucumber, tomato, olive oil, lemon juice",
+    "instructions": "Grill chicken, chop veggies, mix together, drizzle with oil and lemon."
+  },
+  {
+    "id": "3",
+    "title": "Vegetable Stir Fry",
+    "ingredients": "broccoli, bell pepper, carrot, soy sauce, garlic, ginger, sesame oil",
+    "instructions": "Chop vegetables. Stir fry with garlic, ginger, and soy sauce."
+  },
+  {
+    "id": "4",
+    "title": "Beef Tacos",
+    "ingredients": "taco shells, ground beef, lettuce, tomato, cheese, sour cream",
+    "instructions": "Cook beef with spices, assemble tacos with toppings."
+  },
+  {
+    "id": "5",
+    "title": "Pancakes",
+    "ingredients": "flour, milk, eggs, sugar, butter, maple syrup",
+    "instructions": "Mix batter, cook pancakes on skillet, serve with butter and syrup."
+  },
+  {
+    "id": "6",
+    "title": "Margherita Pizza",
+    "ingredients": "pizza dough, tomato sauce, mozzarella, basil, olive oil",
+    "instructions": "Spread sauce on dough, add mozzarella and basil, bake in oven."
+  },
+  {
+    "id": "7",
+    "title": "Grilled Salmon",
+    "ingredients": "salmon fillet, lemon, olive oil, salt, pepper",
+    "instructions": "Season salmon, grill 4-5 min per side, serve with lemon."
+  },
+  {
+    "id": "8",
+    "title": "Caprese Salad",
+    "ingredients": "tomato, mozzarella, basil, olive oil, balsamic vinegar",
+    "instructions": "Slice tomato and mozzarella, layer with basil, drizzle with oil and vinegar."
+  },
+  {
+    "id": "9",
+    "title": "Chocolate Chip Cookies",
+    "ingredients": "flour, sugar, butter, eggs, chocolate chips, baking soda, vanilla",
+    "instructions": "Mix ingredients, scoop onto baking sheet, bake at 180C for 10-12 min."
+  },
+  {
+    "id": "10",
+    "title": "Lemon Garlic Shrimp",
+    "ingredients": "shrimp, garlic, butter, lemon juice, parsley, salt, pepper",
+    "instructions": "Sauté garlic in butter, add shrimp, cook 2-3 min, finish with lemon and parsley."
+  },
+  {
+    "id": "11",
+    "title": "Beef Stroganoff",
+    "ingredients": "beef, mushrooms, onion, sour cream, beef broth, flour, butter",
+    "instructions": "Cook beef, sauté mushrooms and onions, add broth and cream, simmer."
+  },
+  {
+    "id": "12",
+    "title": "Greek Salad",
+    "ingredients": "cucumber, tomato, red onion, feta cheese, olives, olive oil, oregano",
+    "instructions": "Chop veggies, add feta and olives, drizzle with olive oil and oregano."
+  },
+  {
+    "id": "13",
+    "title": "Fried Rice",
+    "ingredients": "rice, egg, peas, carrot, soy sauce, green onion, sesame oil",
+    "instructions": "Scramble eggs, stir fry veggies, add rice and soy sauce, finish with sesame oil."
+  },
+  {
+    "id": "14",
+    "title": "Chicken Alfredo Pasta",
+    "ingredients": "fettuccine, chicken breast, cream, parmesan, garlic, butter",
+    "instructions": "Cook pasta, sauté chicken, make cream sauce, combine with pasta."
+  },
+  {
+    "id": "15",
+    "title": "Tuna Sandwich",
+    "ingredients": "bread, tuna, mayonnaise, celery, lettuce, salt, pepper",
+    "instructions": "Mix tuna with mayo and celery, spread on bread with lettuce."
+  },
+  {
+    "id": "16",
+    "title": "Avocado Toast",
+    "ingredients": "bread, avocado, salt, pepper, lemon juice, chili flakes",
+    "instructions": "Mash avocado with lemon, salt, pepper, spread on toast, sprinkle chili flakes."
+  },
+  {
+    "id": "17",
+    "title": "Mushroom Risotto",
+    "ingredients": "arborio rice, mushrooms, onion, garlic, vegetable broth, parmesan, butter",
+    "instructions": "Sauté onion and garlic, add rice and broth gradually, stir in mushrooms and parmesan."
+  },
+  {
+    "id": "18",
+    "title": "BBQ Chicken Wings",
+    "ingredients": "chicken wings, barbecue sauce, salt, pepper, garlic powder",
+    "instructions": "Season wings, bake until crispy, toss in barbecue sauce."
+  },
+  {
+    "id": "19",
+    "title": "Omelette",
+    "ingredients": "eggs, milk, salt, pepper, cheese, vegetables (optional)",
+    "instructions": "Beat eggs with milk, cook in pan, add fillings, fold and serve."
+  },
+  {
+    "id": "20",
+    "title": "Tomato Soup",
+    "ingredients": "tomatoes, onion, garlic, vegetable broth, cream, basil, salt, pepper",
+    "instructions": "Cook tomatoes with onion and garlic, blend, simmer with broth, add cream and basil."
+  },
+  {
+    "id": "21",
+    "title": "Beef Burger",
+    "ingredients": "ground beef, burger buns, lettuce, tomato, cheese, ketchup, mustard",
+    "instructions": "Form patties, grill beef, assemble burger with toppings."
+  },
+  {
+    "id": "22",
+    "title": "Shrimp Tacos",
+    "ingredients": "shrimp, taco shells, cabbage, lime, cilantro, sour cream, spices",
+    "instructions": "Cook shrimp with spices, assemble tacos with cabbage and sauce."
+  },
+  {
+    "id": "23",
+    "title": "Pesto Pasta",
+    "ingredients": "pasta, basil pesto, parmesan, pine nuts, olive oil",
+    "instructions": "Cook pasta, mix with pesto, sprinkle parmesan and pine nuts."
+  },
+  {
+    "id": "24",
+    "title": "Vegetable Soup",
+    "ingredients": "carrot, celery, potato, onion, garlic, vegetable broth, herbs",
+    "instructions": "Chop vegetables, cook in broth with herbs until tender."
+  },
+  {
+    "id": "25",
+    "title": "Cheesecake",
+    "ingredients": "cream cheese, sugar, eggs, graham crackers, butter, vanilla extract",
+    "instructions": "Mix crust, press in pan, mix filling, bake, cool and serve."
+  },
+  {
+    "id": "26",
+    "title": "Fish and Chips",
+    "ingredients": "white fish fillets, potatoes, flour, beer, salt, oil",
+    "instructions": "Prepare batter, coat fish, deep fry, serve with fried potatoes."
+  },
+  {
+    "id": "27",
+    "title": "Caesar Salad",
+    "ingredients": "romaine lettuce, croutons, parmesan, Caesar dressing, chicken (optional)",
+    "instructions": "Toss lettuce with dressing, add croutons and parmesan, optionally add grilled chicken."
+  },
+  {
+    "id": "28",
+    "title": "Stuffed Peppers",
+    "ingredients": "bell peppers, rice, ground beef, onion, tomato sauce, cheese, herbs",
+    "instructions": "Hollow peppers, mix filling, stuff peppers, bake and top with cheese."
+  },
+  {
+    "id": "29",
+    "title": "Chocolate Cake",
+    "ingredients": "flour, sugar, cocoa, eggs, butter, baking powder, milk",
+    "instructions": "Mix ingredients, bake in pan at 180C, cool and frost if desired."
+  },
+  {
+    "id": "30",
+    "title": "Fajitas",
+    "ingredients": "chicken or beef, bell peppers, onion, tortillas, spices, oil",
+    "instructions": "Cook meat with spices, sauté peppers and onion, serve in tortillas."
+  },
+  {
+    "id": "31",
+    "title": "Pancit Noodles",
+    "ingredients": "rice noodles, chicken, shrimp, vegetables, soy sauce, garlic",
+    "instructions": "Cook chicken and shrimp, sauté vegetables, add noodles and sauce, toss well."
+  },
+  {
+    "id": "32",
+    "title": "Guacamole",
+    "ingredients": "avocado, lime juice, onion, tomato, cilantro, salt",
+    "instructions": "Mash avocado, mix in chopped ingredients and lime, serve with chips."
+  },
+  {
+    "id": "33",
+    "title": "Lasagna",
+    "ingredients": "lasagna noodles, ground beef, tomato sauce, ricotta, mozzarella, parmesan",
+    "instructions": "Layer noodles, meat sauce, cheeses, bake at 180C for 45 min."
+  },
+  {
+    "id": "34",
+    "title": "Clam Chowder",
+    "ingredients": "clams, potatoes, onion, celery, bacon, cream, butter",
+    "instructions": "Cook bacon, sauté veggies, add clams and broth, simmer and add cream."
+  },
+  {
+    "id": "35",
+    "title": "Banana Bread",
+    "ingredients": "bananas, flour, sugar, eggs, butter, baking soda, vanilla",
+    "instructions": "Mash bananas, mix ingredients, bake in loaf pan at 175C for 50-60 min."
+  },
+   {
+    "id": "36",
+    "title": "Grilled Cheese Sandwich",
+    "ingredients": "bread, cheddar cheese, butter",
+    "instructions": "Butter bread, place cheese between slices, grill until golden brown."
+  },
+  {
+    "id": "37",
+    "title": "Greek Salad",
+    "ingredients": "tomatoes, cucumber, onion, feta, olives, olive oil, oregano",
+    "instructions": "Chop vegetables, add feta and olives, drizzle with olive oil and oregano."
+  },
+  {
+    "id": "38",
+    "title": "Beef Stew",
+    "ingredients": "beef, carrots, potatoes, onion, celery, beef broth, tomato paste, herbs",
+    "instructions": "Brown beef, add vegetables and broth, simmer until tender."
+  },
+  {
+    "id": "39",
+    "title": "Caprese Salad",
+    "ingredients": "tomatoes, mozzarella, basil, olive oil, balsamic vinegar",
+    "instructions": "Layer tomatoes and mozzarella, sprinkle basil, drizzle oil and vinegar."
+  },
+  {
+    "id": "40",
+    "title": "Shepherd's Pie",
+    "ingredients": "ground lamb or beef, onion, carrots, peas, mashed potatoes, butter",
+    "instructions": "Cook meat with veggies, top with mashed potatoes, bake until golden."
+  },
+  {
+    "id": "41",
+    "title": "Pad Thai",
+    "ingredients": "rice noodles, shrimp or chicken, eggs, tofu, bean sprouts, peanuts, sauce",
+    "instructions": "Cook protein, scramble eggs, sauté noodles with sauce and veggies, top with peanuts."
+  },
+  {
+    "id": "42",
+    "title": "Egg Fried Rice",
+    "ingredients": "rice, eggs, peas, carrots, onion, soy sauce, oil",
+    "instructions": "Scramble eggs, sauté veggies, add rice and soy sauce, stir-fry well."
+  },
+  {
+    "id": "43",
+    "title": "Chicken Curry",
+    "ingredients": "chicken, onion, garlic, ginger, tomato, coconut milk, curry powder",
+    "instructions": "Cook onion, garlic, ginger, add chicken and spices, stir in tomato and coconut milk."
+  },
+  {
+    "id": "44",
+    "title": "Beef Tacos",
+    "ingredients": "ground beef, taco shells, lettuce, tomato, cheese, salsa",
+    "instructions": "Cook beef with spices, assemble tacos with toppings."
+  },
+  {
+    "id": "45",
+    "title": "Mac and Cheese",
+    "ingredients": "macaroni, cheddar cheese, milk, butter, flour",
+    "instructions": "Cook pasta, make cheese sauce with butter, flour, milk, mix with pasta."
+  },
+  {
+    "id": "46",
+    "title": "Stuffed Mushrooms",
+    "ingredients": "mushrooms, breadcrumbs, garlic, cheese, herbs, olive oil",
+    "instructions": "Mix filling, stuff mushrooms, bake at 180C until golden."
+  },
+  {
+    "id": "47",
+    "title": "Baked Salmon",
+    "ingredients": "salmon fillets, lemon, garlic, dill, olive oil, salt, pepper",
+    "instructions": "Season salmon, bake at 200C for 12-15 min."
+  },
+  {
+    "id": "48",
+    "title": "Chili Con Carne",
+    "ingredients": "ground beef, kidney beans, tomato, onion, garlic, chili powder",
+    "instructions": "Cook beef with onion and garlic, add beans, tomatoes, and chili, simmer."
+  },
+  {
+    "id": "49",
+    "title": "French Toast",
+    "ingredients": "bread, eggs, milk, sugar, cinnamon, butter",
+    "instructions": "Dip bread in egg mixture, fry in butter until golden, serve with syrup."
+  },
+  {
+    "id": "50",
+    "title": "Vegetable Stir Fry",
+    "ingredients": "broccoli, bell peppers, carrots, soy sauce, garlic, oil",
+    "instructions": "Sauté vegetables in oil with garlic, add soy sauce, stir-fry until tender."
+  },
+  {
+    "id": "51",
+    "title": "Cinnamon Rolls",
+    "ingredients": "flour, sugar, butter, yeast, milk, cinnamon, eggs",
+    "instructions": "Prepare dough, roll with cinnamon sugar, bake, glaze with icing."
+  },
+  {
+    "id": "52",
+    "title": "Lentil Soup",
+    "ingredients": "lentils, onion, carrot, celery, garlic, vegetable broth, spices",
+    "instructions": "Cook vegetables, add lentils and broth, simmer until tender."
+  },
+  {
+    "id": "53",
+    "title": "Shrimp Scampi",
+    "ingredients": "shrimp, garlic, butter, lemon, parsley, pasta",
+    "instructions": "Cook shrimp in butter and garlic, toss with pasta and lemon juice."
+  },
+  {
+    "id": "54",
+    "title": "Quiche Lorraine",
+    "ingredients": "pie crust, eggs, cream, bacon, cheese, nutmeg",
+    "instructions": "Mix filling, pour into crust, bake at 180C until set."
+  },
+  {
+    "id": "55",
+    "title": "Minestrone Soup",
+    "ingredients": "beans, pasta, carrot, celery, zucchini, tomato, onion, garlic, broth",
+    "instructions": "Cook vegetables, add beans, pasta, and broth, simmer until tender."
+  },
+  {
+    "id": "56",
+    "title": "Pancakes",
+    "ingredients": "flour, milk, eggs, sugar, baking powder, butter",
+    "instructions": "Mix ingredients, pour batter on hot pan, cook until golden on both sides."
+  },
+  {
+    "id": "57",
+    "title": "Fried Chicken",
+    "ingredients": "chicken pieces, flour, eggs, breadcrumbs, oil, spices",
+    "instructions": "Coat chicken with flour, egg, breadcrumbs, fry until golden and cooked through."
+  },
+  {
+    "id": "58",
+    "title": "Caesar Salad",
+    "ingredients": "lettuce, croutons, parmesan, Caesar dressing, chicken (optional)",
+    "instructions": "Toss lettuce with dressing, top with croutons, parmesan, and chicken."
+  },
+  {
+    "id": "59",
+    "title": "Tomato Soup",
+    "ingredients": "tomatoes, onion, garlic, vegetable broth, cream, basil",
+    "instructions": "Cook tomatoes and onion, blend, add broth and cream, simmer, season."
+  },
+  {
+    "id": "60",
+    "title": "Risotto",
+    "ingredients": "arborio rice, onion, garlic, broth, parmesan, butter",
+    "instructions": "Cook onion and garlic, add rice, gradually add broth, finish with butter and parmesan."
+  },
+  {
+    "id": "61",
+    "title": "Veggie Burger",
+    "ingredients": "black beans, breadcrumbs, onion, spices, burger buns, lettuce, tomato",
+    "instructions": "Mash beans, mix with breadcrumbs and spices, form patties, cook and assemble."
+  },
+  {
+    "id": "62",
+    "title": "Chocolate Cake",
+    "ingredients": "flour, cocoa powder, sugar, eggs, butter, baking powder, milk",
+    "instructions": "Mix dry and wet ingredients, bake at 180C until cooked through."
+  },
+  {
+    "id": "63",
+    "title": "Garlic Bread",
+    "ingredients": "bread, butter, garlic, parsley",
+    "instructions": "Mix butter with garlic and parsley, spread on bread, bake until golden."
+  },
+  {
+    "id": "64",
+    "title": "Baked Ziti",
+    "ingredients": "ziti pasta, tomato sauce, ricotta, mozzarella, parmesan",
+    "instructions": "Cook pasta, mix with sauce and cheese, bake until bubbly."
+  },
+  {
+    "id": "65",
+    "title": "Tuna Salad",
+    "ingredients": "tuna, mayo, celery, onion, lettuce, tomato",
+    "instructions": "Mix tuna with mayo, celery, onion, serve on lettuce or sandwich."
+  },
+  {
+    "id": "66",
+    "title": "Beef Stroganoff",
+    "ingredients": "beef, mushrooms, onion, sour cream, mustard, noodles",
+    "instructions": "Cook beef with onions and mushrooms, add sour cream and mustard, serve over noodles."
+  },
+  {
+    "id": "67",
+    "title": "Shepherd's Pie",
+    "ingredients": "ground beef or lamb, mashed potatoes, peas, carrots, onion, butter",
+    "instructions": "Cook meat with veggies, top with mashed potatoes, bake until golden."
+  },
+  {
+    "id": "68",
+    "title": "Veggie Omelette",
+    "ingredients": "eggs, bell peppers, onions, mushrooms, cheese, oil",
+    "instructions": "Beat eggs, cook vegetables in oil, pour eggs, cook until set, fold and serve."
+  },
+  {
+    "id": "69",
+    "title": "Chicken Alfredo",
+    "ingredients": "chicken breast, fettuccine, cream, parmesan, garlic, butter",
+    "instructions": "Cook chicken, make cream sauce with garlic and butter, toss with pasta and parmesan."
+  },
+  {
+    "id": "70",
+    "title": "Shrimp Fried Rice",
+    "ingredients": "shrimp, rice, peas, carrots, eggs, soy sauce, oil",
+    "instructions": "Cook shrimp, scramble eggs, stir-fry rice with veggies and soy sauce, combine."
+  },
+  {
+    "id": "71",
+    "title": "Pulled Pork Sandwich",
+    "ingredients": "pork shoulder, BBQ sauce, buns, coleslaw",
+    "instructions": "Cook pork until tender, shred, mix with BBQ sauce, serve on buns with coleslaw."
+  },
+  {
+    "id": "72",
+    "title": "Chicken Quesadilla",
+    "ingredients": "tortillas, chicken, cheese, peppers, onions, oil",
+    "instructions": "Cook chicken and veggies, place on tortilla with cheese, fold and grill."
+  },
+  {
+    "id": "73",
+    "title": "Vegetable Curry",
+    "ingredients": "mixed vegetables, onion, garlic, ginger, coconut milk, curry powder",
+    "instructions": "Cook onion, garlic, ginger, add vegetables and spices, simmer with coconut milk."
+  },
+  {
+    "id": "74",
+    "title": "Bolognese Pasta",
+    "ingredients": "ground beef, tomato sauce, onion, garlic, pasta, olive oil, herbs",
+    "instructions": "Cook beef with onion and garlic, add tomato sauce and herbs, toss with pasta."
+  },
+  {
+    "id": "75",
+    "title": "Lasagna",
+    "ingredients": "lasagna noodles, ricotta, mozzarella, tomato sauce, ground beef",
+    "instructions": "Layer noodles, sauce, meat, and cheeses, bake until bubbly and golden."
+  },
+  {
+    "id": "76",
+    "title": "Mushroom Risotto",
+    "ingredients": "arborio rice, mushrooms, onion, garlic, broth, parmesan, butter",
+    "instructions": "Cook mushrooms and onion, add rice, gradually add broth, finish with parmesan and butter."
+  },
+  {
+    "id": "77",
+    "title": "Cobb Salad",
+    "ingredients": "lettuce, chicken, bacon, eggs, avocado, blue cheese, dressing",
+    "instructions": "Arrange ingredients on lettuce, drizzle with dressing, serve chilled."
+  },
+  {
+    "id": "78",
+    "title": "Fettuccine Carbonara",
+    "ingredients": "fettuccine, bacon, eggs, parmesan, black pepper, cream",
+    "instructions": "Cook pasta, mix with cooked bacon and eggs, add cheese and cream, toss to combine."
+  },
+  {
+    "id": "79",
+    "title": "Stuffed Peppers",
+    "ingredients": "bell peppers, rice, ground beef, tomato sauce, onion, cheese",
+    "instructions": "Stuff peppers with rice and meat mixture, top with tomato sauce and cheese, bake until tender."
+  },
+  {
+    "id": "80",
+    "title": "Chicken Tikka Masala",
+    "ingredients": "chicken, yogurt, tomato, cream, spices, onion, garlic, ginger",
+    "instructions": "Marinate chicken, cook with spices and tomato cream sauce, serve with rice."
+  },
+  {
+    "id": "81",
+    "title": "Pad Kra Pao",
+    "ingredients": "ground chicken, basil, chili, garlic, soy sauce, rice",
+    "instructions": "Stir-fry chicken with garlic and chili, add basil and sauce, serve over rice."
+  },
+  {
+    "id": "82",
+    "title": "Beef Wellington",
+    "ingredients": "beef fillet, puff pastry, mushrooms, mustard, egg, prosciutto",
+    "instructions": "Wrap beef with mushroom duxelles and prosciutto in pastry, bake until golden."
+  },
+  {
+    "id": "83",
+    "title": "Shrimp Tacos",
+    "ingredients": "shrimp, taco shells, cabbage, lime, sour cream, spices",
+    "instructions": "Cook shrimp with spices, assemble tacos with cabbage and sour cream."
+  },
+  {
+    "id": "84",
+    "title": "Eggplant Parmesan",
+    "ingredients": "eggplant, tomato sauce, mozzarella, parmesan, breadcrumbs",
+    "instructions": "Bread and fry eggplant, layer with sauce and cheese, bake until golden."
+  },
+  {
+    "id": "85",
+    "title": "Chicken Fajitas",
+    "ingredients": "chicken, bell peppers, onion, tortillas, spices",
+    "instructions": "Cook chicken with peppers and onions, serve in tortillas."
+  },
+  {
+    "id": "86",
+    "title": "Spinach Salad",
+    "ingredients": "spinach, strawberries, almonds, feta, balsamic vinaigrette",
+    "instructions": "Toss ingredients together and serve chilled."
+  },
+  {
+    "id": "87",
+    "title": "Teriyaki Chicken",
+    "ingredients": "chicken, soy sauce, sugar, garlic, ginger, rice",
+    "instructions": "Cook chicken in teriyaki sauce, serve with steamed rice."
+  },
+  {
+    "id": "88",
+    "title": "Beef Kebabs",
+    "ingredients": "beef, bell peppers, onions, skewers, spices",
+    "instructions": "Skewer beef and veggies, grill until cooked to preference."
+  },
+  {
+    "id": "89",
+    "title": "Clam Chowder",
+    "ingredients": "clams, potatoes, onion, celery, cream, butter",
+    "instructions": "Cook vegetables, add clams and cream, simmer until thickened."
+  },
+  {
+    "id": "90",
+    "title": "Chocolate Chip Cookies",
+    "ingredients": "flour, sugar, butter, eggs, chocolate chips, baking soda",
+    "instructions": "Mix ingredients, scoop onto baking sheet, bake at 180C until golden."
+  },
+  {
+    "id": "91",
+    "title": "Banana Bread",
+    "ingredients": "bananas, flour, sugar, eggs, butter, baking soda",
+    "instructions": "Mix ingredients, pour into loaf pan, bake until cooked through."
+  },
+  {
+    "id": "92",
+    "title": "Pesto Pasta",
+    "ingredients": "pasta, basil pesto, parmesan, olive oil",
+    "instructions": "Cook pasta, toss with pesto and parmesan, serve warm."
+  },
+  {
+    "id": "93",
+    "title": "Beef Chili",
+    "ingredients": "ground beef, beans, tomato, onion, chili powder, spices",
+    "instructions": "Cook beef with onion, add beans and tomato, simmer with spices."
+  },
+  {
+    "id": "94",
+    "title": "Caprese Panini",
+    "ingredients": "bread, tomato, mozzarella, basil, olive oil",
+    "instructions": "Assemble sandwich with ingredients, grill until cheese melts."
+  },
+  {
+    "id": "95",
+    "title": "Mushroom Soup",
+    "ingredients": "mushrooms, onion, garlic, cream, vegetable broth, herbs",
+    "instructions": "Cook mushrooms and onion, add broth and cream, simmer, season to taste."
+  },
+  {
+    "id": "96",
+    "title": "Chicken Noodle Soup",
+    "ingredients": "chicken, noodles, carrots, celery, onion, broth",
+    "instructions": "Cook chicken and vegetables in broth, add noodles, simmer until tender."
+  },
+  {
+    "id": "97",
+    "title": "Frittata",
+    "ingredients": "eggs, cheese, vegetables, oil, salt, pepper",
+    "instructions": "Beat eggs, sauté vegetables, pour eggs, cook until set."
+  },
+  {
+    "id": "98",
+    "title": "Shrimp Paella",
+    "ingredients": "shrimp, rice, saffron, peas, bell peppers, onion, garlic",
+    "instructions": "Cook onion, garlic, and rice, add saffron, peas, peppers, and shrimp, simmer until cooked."
+  },
+  {
+    "id": "99",
+    "title": "Chicken Parmesan",
+    "ingredients": "chicken breast, breadcrumbs, tomato sauce, mozzarella, parmesan",
+    "instructions": "Bread chicken, fry until golden, top with sauce and cheese, bake until cheese melts."
+  },
+  {
+    "id": "100",
+    "title": "Vegetable Lasagna",
+    "ingredients": "lasagna noodles, ricotta, spinach, zucchini, tomato sauce, mozzarella, parmesan",
+    "instructions": "Layer noodles, vegetables, sauce, and cheeses, bake until bubbly and golden."
+  }
+]
