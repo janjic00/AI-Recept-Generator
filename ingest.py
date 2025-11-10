@@ -3,7 +3,8 @@ import json
 from dotenv import load_dotenv
 from sentence_transformers import SentenceTransformer
 from pinecone import Pinecone, ServerlessSpec
-
+import ssl
+ssl._create_default_https_context = ssl._create_unverified_context
 # ----------------------------
 # 1. Load API keys
 # ----------------------------
